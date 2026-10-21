@@ -1,0 +1,23 @@
+{
+  "zero_shot": {
+    "step": 0,
+    "eligible": true
+  },
+  "lora": {
+    "step": 500,
+    "eligible": true,
+    "viability_mae": 10.761576859004913,
+    "fed_batch_viability_mae": 15.26634907023112,
+    "normalized_mae": 1.0155779024138254,
+    "automatic_suggestion_step": 500
+  },
+  "full": {
+    "step": 350,
+    "eligible": true,
+    "viability_mae": 8.222622267707944,
+    "fed_batch_viability_mae": 12.720041074117024,
+    "normalized_mae": 1.127381167904752,
+    "automatic_suggestion_step": 350,
+    "choice_reason": "User-fixed Full 350 after prior Validation inspection"
+  }
+}
