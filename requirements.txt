@@ -1,0 +1,7 @@
+git+https://github.com/amazon-science/chronos-forecasting.git@1224fafa91e1ecd6674f5204066b159e40b5e4a1
+peft
+accelerate
+pandas
+numpy
+torch
+huggingface_hub
