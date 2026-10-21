@@ -1,0 +1,7 @@
+{
+  "method": "full",
+  "step": 350,
+  "automatic_suggestion": "full",
+  "passes_viability_guard": true,
+  "reason": "User-fixed from prior Validation inspection; Test is exploratory"
+}
