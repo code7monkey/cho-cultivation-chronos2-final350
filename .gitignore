@@ -1,0 +1,7 @@
+.env
+*.zip
+raw/
+models/
+checkpoints/
+*.safetensors
+__pycache__/
